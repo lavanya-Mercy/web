@@ -9,6 +9,9 @@ Welcome to my docs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+   
+   Intro to REACT
 
 
 
